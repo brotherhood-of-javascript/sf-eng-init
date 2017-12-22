@@ -1,8 +1,8 @@
-#Single Page Application Development
+# Single Page Application Development
 
 **[<= Back](../../02-browser/10-project-your-game/project-your-game.md)**		*	*	*	**[Next =>]()**
 
-##Theory
+## Theory
 
 ### Choosing Framework
 
