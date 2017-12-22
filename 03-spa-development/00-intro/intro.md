@@ -15,7 +15,7 @@ In that chapter we will focus on developing single page application with the hel
 
 > You no need to read all essential guidelines at once however we encourage you to read them all step by step
 
-### State Managment
+### State Management
 
 1. [Vue.js Guideline](https://vuejs.org/v2/guide/state-management.html)
 1. [Video: Facebook Flux - Rethink App Development](https://facebook.github.io/flux/)
